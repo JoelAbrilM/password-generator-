@@ -11,4 +11,4 @@ This project is a **custom password generator** that implements a unique hashing
 ## 🚀 Technologies  
 - **Next.js** – Modern React framework for seamless performance  
 - **Custom Hashing Algorithm** – Unique approach to password security  
-- **JavaScript** – Clean and efficient codebase  
+- **TypeScript** – Clean and efficient codebase  
